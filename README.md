@@ -1,0 +1,1 @@
+More informations about this code can be found at: http://naki.info/2011/04/pvpgn-password-hash-function-implementation-in-js-and-php/
